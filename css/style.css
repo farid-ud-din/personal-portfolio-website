@@ -320,7 +320,7 @@
 .form-control {
   color: black;
 }
-footer {
+.footer1 {
   background-color: #ffecec;
 }
 .arid2 {
@@ -347,4 +347,17 @@ li a {
   color: var(--primary-color);
   text-align: center;
   text-decoration: none;
+}
+.footer2 {
+  background-color: white;
+}
+.farid2 {
+  padding: 0px 5px;
+  color: var(--primary-color);
+  font-weight: bold;
+  font-size: 18px;
+}
+.arr {
+  font-size: 18px;
+  font-weight: 500;
 }
